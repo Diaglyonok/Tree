@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480277049 source:c:\users\Юыху\desktop\projects\tree\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	<time.h>
+	<windows.h>
+
